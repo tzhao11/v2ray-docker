@@ -1,9 +1,5 @@
 {
   "env": {
-    "VER": {
-       "description": "输入v2ray Core 版本号（latest表示最新版本）",
-       "value": "3.28"
-     }, 
     "CLIENT_ID": {
        "description": "Vmess协议默认UUID，请输入自己的UUID",
        "value": "f3c9cb27-746f-4e41-acf2-820bd3002676"
